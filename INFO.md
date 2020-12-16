@@ -1,2 +1,1 @@
-Haskell Carry
-new line
+git is awesome!
